@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Styrofoam by NadinAlissa
+kernel.string=Styrofoam by Diyanto
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=mojito
-device.name2=sunny
+device.name1=merlin
+device.name2=
 device.name3=
 device.name4=
 device.name5=
